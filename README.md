@@ -1,12 +1,45 @@
-# React + Vite
+# 📊  Crypto Tracker Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Crypto Tracker **is a a full-stack cryptocurrency tracker that reflects real-world client projects**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Frontend url Demo
 
-## Expanding the ESLint configuration
+👉 [Live Link](https://crypto-tracker-dvso.onrender.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1467" height="821" alt="image" src="https://github.com/user-attachments/assets/5959a8ce-9804-4d8d-a98e-da7e66c60788" />
+
+
+
+---
+
+## 🧩 Backend Tech Stack
+
+- **ReactJS** 
+- **MUI** 
+
+---
+
+## 📥 Installation & Running Locally
+
+Follow these simple steps to run the project on your machine:
+
+1️⃣ **Clone the repository**
+```bash
+
+git clone https://github.com/Manishrajwar/Crypto-Tracker-frontend.git
+
+cd Crypto-Tracker-frontend
+
+2️⃣ **Install dependencies**
+
+npm install
+
+3️⃣ **Start the local dev server**
+
+npm run dev
+
+4️⃣ **Open your browser and navigate to:**
+
+http://localhost:5174/
