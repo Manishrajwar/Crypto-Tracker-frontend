@@ -1,4 +1,4 @@
-const baseurl = `http://localhost:5000/api`
+const baseurl = process.env.REACT_APP_API_URL;
 
 export const DashboardEnpoints = {
      GET_COINS: `${baseurl}/coins` ,
