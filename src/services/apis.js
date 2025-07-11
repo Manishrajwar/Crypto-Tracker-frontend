@@ -1,4 +1,4 @@
-const baseurl = process.env.REACT_APP_API_URL;
+const baseurl = "https://crypto-tracker-backend-52qi.onrender.com/api";
 
 export const DashboardEnpoints = {
      GET_COINS: `${baseurl}/coins` ,
